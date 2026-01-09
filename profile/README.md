@@ -11,8 +11,8 @@
 
 | 파트 (Part) | 기술 스택 (Tech Stack) | 저장소 링크 (Repository) |
 | :--- | :--- | :--- |
-| **🖥️ Frontend** | React, TypeScript, Recoil | [👉 ReviewTag-Frontend 바로가기](https://github.com/ReviewTag-Project/ReviewTag-Frontend) |
-| **⚙️ Backend** | Java, Spring Boot, JPA | [👉 ReviewTag-Backend 바로가기](https://github.com/ReviewTag-Project/ReviewTag-Backend) |
+| **🖥️ Frontend** | React, JavaScript, Recoil | [👉 ReviewTag-Frontend 바로가기](https://github.com/ReviewTag-Project/ReviewTag-Frontend) |
+| **⚙️ Backend** | Java, Spring Boot, Mybatis | [👉 ReviewTag-Backend 바로가기](https://github.com/ReviewTag-Project/ReviewTag-Backend) |
 
 ---
 
